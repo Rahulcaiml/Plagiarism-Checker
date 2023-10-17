@@ -2,6 +2,7 @@
 
 Plagiarsim checker using cosine algorithm
 
+Rahul pal, Abhinandan Bakshi
 
 ## How to Run?
 
