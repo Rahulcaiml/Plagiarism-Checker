@@ -5,7 +5,7 @@ Plagiarsim checker using cosine algorithm
 
 ## How to Run?
 
-- Install the requirements using `pip3 install -r requirements.txt`
+- Install the requirements using `sudo pip install --force-reinstall google-api-python-client`
 - Run server `python3 manage.py runserver`
 
 
