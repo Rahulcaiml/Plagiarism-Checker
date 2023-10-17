@@ -2,7 +2,8 @@
 
 Plagiarsim checker using cosine algorithm
 
-Rahul pal, Abhinandan Bakshi
+Rahul pal 56 (22022002016004)
+Abhinandan Bakshi 58 (22022002016005)
 
 ## How to Run?
 
